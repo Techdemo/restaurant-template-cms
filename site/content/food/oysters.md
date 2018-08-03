@@ -1,7 +1,7 @@
 ---
 categories:
-  - lunch
   - dinner
+  - lunch
 date: 2017-05-17T17:03:58.000Z
 title: half oyster
 description: >-
@@ -10,5 +10,3 @@ description: >-
 type: raw bar
 price: 24
 ---
-
-
